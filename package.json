@@ -1,6 +1,6 @@
 {
-  "name": "QuickConvert",
-  "description": "A unit converter tool that delivers quick results as a browser extension.",
+  "name": "DevConvert",
+  "description": "A unit converter tool for developers that delivers quick results as a browser extension.",
   "scripts": {
     "start": "vite",
     "dev": "vite",
