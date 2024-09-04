@@ -1,6 +1,6 @@
-## Unit Converter Browser Extension
+## Web Development Unit Converter Browser Extension
 ---------------------
-A simple unit converter that can convert a number in 3 different categories: length, volume, and mass. 
+A simple unit converter that can convert a number from px to rem and vice versa. 
 
 Please note that this extension has only been tested in Chromium-based browsers.
 
