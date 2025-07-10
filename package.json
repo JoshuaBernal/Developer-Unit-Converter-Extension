@@ -10,5 +10,7 @@
   "dependencies": {
     "vite": "latest"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
 }
